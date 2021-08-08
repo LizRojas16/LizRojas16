@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LizRojas16
-<!---
-LizRojas16/LizRojas16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Me llamo  Astrid Lizbeth Rojas Chicojay
+Tengo 14 años
+Estudio en INSOL La Antigua Guatemala
+< img > src="animales en pelig de extincion.jpeg" alt="Mi imagen de prueba">
+
